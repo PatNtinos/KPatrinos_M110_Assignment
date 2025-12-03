@@ -28,4 +28,4 @@ It is meant for learning and exploration.
 - **Unity Editor Tools**
 
 ## 🔗 Play on Itch.io
-**Itch.io link:** [Your Game on Itch.io] https://ntingr.itch.io/dungeon-keeper
+**Itch.io link:** https://ntingr.itch.io/dungeon-keeper
